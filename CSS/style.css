@@ -1,0 +1,20 @@
+     body{
+display: block;
+background: #fff;
+}
+header {
+	background-color:#800000;
+	color: Maroon;
+	padding: 1rem;
+	text-align: center;
+font-family:Times New Roman, Bold Italic; }
+
+main {
+	background: FireBrick;
+}
+
+footer {
+	background:Crimson;
+	padding:2rem;
+	text-align: center;
+}
